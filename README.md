@@ -19,6 +19,12 @@ and import in your project
 
 Explain in my code 
 
+```
+from push_live import play_control, stop
+play_control(vadio_list, audio_list, IS_PLAY)
+time.sleep(60)
+stop()
+```
 
 
 ## License
